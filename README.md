@@ -1,3 +1,8 @@
+# What is this
+
+This is the workshop on doing a RAG in 90 minutes... just the basics to get you started.
+
+
 # What to install
 ## Docker
 * Qdrant DB https://qdrant.tech/documentation/guides/installation/#docker
