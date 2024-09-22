@@ -1,0 +1,11 @@
+# To ensure app dependencies are ported from your virtual environment/host machine into your container, run 'pip freeze > requirements.txt' in the terminal to overwrite this file
+transformers
+langchain_text_splitters
+pypdfium2
+fastapi
+uvicorn
+pydantic
+qdrant_client
+python-multipart
+qdrant_client
+httpx
